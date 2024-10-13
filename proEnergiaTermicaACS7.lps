@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="proEnergiaTermicaACS7.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="50" Y="27"/>
+        <UsageCount Value="97"/>
+      </Unit>
+      <Unit>
+        <Filename Value="frmmenu.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="FrmMenu"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="251"/>
+        <CursorPos X="30" Y="275"/>
+        <UsageCount Value="97"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitsecciones.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitSecciones"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="21" Y="13"/>
+        <UsageCount Value="97"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="frmsecciones.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="frmSecciones"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="4"/>
+        <CursorPos X="69" Y="27"/>
+        <UsageCount Value="97"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="frmdisposicionsecciones.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form3"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="16"/>
+        <CursorPos X="73" Y="46"/>
+        <UsageCount Value="97"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="coppersistencia.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="37"/>
+        <CursorPos X="15" Y="65"/>
+        <UsageCount Value="63"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/lib64/lazarus/lcl/include/customform.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="2401"/>
+        <CursorPos Y="2412"/>
+        <UsageCount Value="33"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/lib64/lazarus/lcl/lclmessageglue.pas"/>
+        <UnitName Value="LCLMessageGlue"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="102"/>
+        <CursorPos Y="116"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/lib64/lazarus/lcl/include/control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2945"/>
+        <CursorPos Y="2959"/>
+        <UsageCount Value="6"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="244" Column="63" TopLine="226"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="251" Column="63" TopLine="233"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="116"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="262" TopLine="234"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="128" Column="19" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="121" Column="38" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="122" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="266" Column="10" TopLine="253"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="122" Column="40" TopLine="105"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="265" Column="63" TopLine="254"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="124" Column="79" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="239" Column="5" TopLine="237"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="50" Column="26" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="45" Column="50" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="44" Column="50" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="43" Column="50" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="49" Column="50" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="299" Column="3" TopLine="288"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="298" Column="3" TopLine="287"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="297" Column="3" TopLine="286"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="303" Column="3" TopLine="292"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="250" Column="3" TopLine="247"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="257" Column="3" TopLine="254"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="156" Column="6" TopLine="152"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="158" Column="6" TopLine="154"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="260" Column="39" TopLine="247"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="261" Column="39" TopLine="248"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="263" Column="39" TopLine="250"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="268" Column="27" TopLine="250"/>
+      </Position>
+      <Position>
+        <Filename Value="frmmenu.pas"/>
+        <Caret Line="269" Column="15" TopLine="251"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

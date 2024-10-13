@@ -1,0 +1,20 @@
+object Form2: TForm2
+  Left = 720
+  Height = 278
+  Top = 283
+  Width = 594
+  Align = alClient
+  Caption = 'Cálculo de Secciones'
+  ClientHeight = 278
+  ClientWidth = 594
+  Color = clWhite
+  LCLVersion = '2.2.6.0'
+  object Button1: TButton
+    Left = 43
+    Height = 72
+    Top = 47
+    Width = 239
+    Caption = 'Button1'
+    TabOrder = 0
+  end
+end
